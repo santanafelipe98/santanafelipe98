@@ -1,5 +1,5 @@
 <img align="right" height="500em" src="https://gist.githubusercontent.com/santanafelipe98/09c116859004ce4ad82c8c84a7240d67/raw/e9337cba58507761344b5d5f361796a6d508ad29/profile_card.svg"/>
-<h1 align="left">Hi, there! I'm Felipe Santana 👋</h1>
+<h1 align="left">Hi there! I'm Felipe Santana 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanafelipe98&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Full Stack Delevoper focused on helping people through the development of tech solutions
