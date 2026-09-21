@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanafelipe98&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Full Stack Delevoper focused on helping people through the development of tech solutions
-- 🔭 I’m currently working as a freelancer dev
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React**
 
 <br><br>
